@@ -1,8 +1,8 @@
-# Прекрасный селезень!
+# Great goosee
 
-1. Прекрасное качество 1
-1. Прекрасное качество 2
-1. Прекрасное качество 3
-1. А печатаю лапками - вообще загляденье.
+1. Great quality 1
+1. Great quality 2
+1. Outstanding ability 1
+1. Beautifully typing with my bare paws.
 
-![Я](https://i.ibb.co/chwK9Lx/image.jpg)
+![Me](https://i.ibb.co/chwK9Lx/image.jpg)
